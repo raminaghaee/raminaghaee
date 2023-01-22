@@ -23,7 +23,7 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 ### Languages and tools:
 [<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />][C#]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />][sql]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][visualStudio]
 
 <br/>
 <br/>
@@ -36,7 +36,7 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 
 [C#]: https://cdn-icons-png.flaticon.com/512/6132/6132221.png
 [sql]: https://cdn-icons-png.flaticon.com/512/5968/5968364.png
-
+[visualStudio]: https://cdn-icons-png.flaticon.com/512/906/906324.png
 
 <!--
 **raminaghaee/raminaghaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
