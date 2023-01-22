@@ -21,11 +21,11 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 <br/>
 <hr/>
 ### Languages and tools:
-[<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />][C#]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />][sql]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][visualStudio]
 
-<br/>
+[<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />][C#]
+[<img align="left" alt="sql" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />][sql]
+[<img align="left" alt="visualStudio" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][visualStudio]
+
 <br/>
 <hr/>
 
