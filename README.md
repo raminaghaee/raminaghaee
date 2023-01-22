@@ -7,13 +7,13 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 - 🔭 I’m not working now.
 - 🌱 I’m currently learning JS & ASP.NET
 
-link to [site name](https://www.google.com/)
+<!--  link to [site name](https://www.google.com/) -->
 
 <hr/>
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=raminaghaee.visitor-badge)
 
