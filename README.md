@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raminaghaee&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raminaghaee&theme=dracula)
