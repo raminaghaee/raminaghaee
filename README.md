@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m not working now.
+- 🌱 I’m currently learning JS & ASP.NET
+
+link to [site name](https://www.google.com/)
+
+
 <!--
 **raminaghaee/raminaghaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
