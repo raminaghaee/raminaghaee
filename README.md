@@ -15,7 +15,7 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 <!--[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  -->
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
-[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25657.png"/>][github]
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25657.png"/>][gmail]
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=raminaghaee.visitor-badge)
 
 <br/>
@@ -32,7 +32,7 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 [website]: https://google.com
 [linkedin]: https://www.linkedin.com/in/ramin-aghaee/
 [instagram]: https://instagram.com/ramin_aghaee_
-[github]: https://https://github.com/raminaghaee
+[gmail]: mailto: rn.aghaee@gmail.com
 
 <!--
 **raminaghaee/raminaghaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
