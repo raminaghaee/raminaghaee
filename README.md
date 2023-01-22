@@ -32,7 +32,7 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 [website]: https://google.com
 [linkedin]: https://www.linkedin.com/in/ramin-aghaee/
 [instagram]: https://instagram.com/ramin_aghaee_
-[gmail]: mailto: rn.aghaee@gmail.com
+[gmail]: mailto:rn.aghaee@gmail.com
 
 <!--
 **raminaghaee/raminaghaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
