@@ -13,7 +13,7 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 
 ### Connect with me:
 <!--[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  -->
-[<p background-color="blue"><img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />Linked in</p>][linkedin]
+[<p style="display="inline-block" background-color="blue""><img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />Linked in</p>][linkedin]
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25657.png"/>][github]
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=raminaghaee.visitor-badge)
