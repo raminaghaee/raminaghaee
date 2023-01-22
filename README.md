@@ -13,7 +13,7 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 
 ### Connect with me:
 <!--[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  -->
-[<p color="blue"><img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />Linked in</p>][linkedin]
+[<p background-color="blue"><img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />Linked in</p>][linkedin]
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25657.png"/>][github]
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=raminaghaee.visitor-badge)
@@ -32,7 +32,7 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 [website]: https://google.com
 [linkedin]: https://www.linkedin.com/in/ramin-aghaee/
 [instagram]: https://instagram.com/ramin_aghaee_
-[linkedin]: https://https://github.com/raminaghaee
+[github]: https://https://github.com/raminaghaee
 
 <!--
 **raminaghaee/raminaghaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
