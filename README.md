@@ -15,24 +15,28 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 <!--[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  -->
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
-[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25657.png"/>][gmail]
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"/>][gmail]
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=raminaghaee.visitor-badge)
 
 <br/>
 <hr/>
 ### Languages and tools:
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />][C#]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />][sql]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 
 <br/>
 <br/>
 <hr/>
 
-[website]: https://google.com
+
 [linkedin]: https://www.linkedin.com/in/ramin-aghaee/
 [instagram]: https://instagram.com/ramin_aghaee_
 [gmail]: mailto:rn.aghaee@gmail.com
+
+[C#]: https://cdn-icons-png.flaticon.com/512/6132/6132221.png
+[sql]: https://cdn-icons-png.flaticon.com/512/5968/5968364.png
+
 
 <!--
 **raminaghaee/raminaghaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
