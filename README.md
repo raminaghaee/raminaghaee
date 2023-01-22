@@ -5,7 +5,13 @@
 
 link to [site name](https://www.google.com/)
 
+<a href=&quothttps://github.com/raminaghaee>
+<img align=&raminaghaee&quot src=&quothttps://github-readme-stats.vercel.app/api?username=raminaghaee&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
 
+
+<a href=&quothttps://github.com/raminaghaee>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=raminaghaee />
+</a>
 <!--
 **raminaghaee/raminaghaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
