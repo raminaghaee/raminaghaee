@@ -12,6 +12,16 @@ link to [site name](https://www.google.com/)
 ###Connect with me:
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/>
+
+###Languages and tools:
+[<img align="left" alt=""HTML5 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d34d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt=""HTML5 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d34d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt=""HTML5 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d34d/topics/css/css.png" />][cssplaylist]
+
+<br/>
 <!--
 **raminaghaee/raminaghaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
