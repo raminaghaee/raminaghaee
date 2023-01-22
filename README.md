@@ -25,7 +25,7 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 
 [<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />][C#]
 [<img align="left" alt="visualStudio" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/dotnet-logo.png" />][.net]
-[<img align="left" alt="sql" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />][sql]
+[<img align="left" alt="sql" width="26px" src="https://www.seekpng.com/png/full/256-2566170_free-high-quality-sql-microsoft-sql-server-icon.png" />][sql]
 [<img align="left" alt="sql" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />][html5]
 [<img align="left" alt="sql" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />][css]
 
