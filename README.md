@@ -17,11 +17,18 @@ link to [site name](https://www.google.com/)
 <br/>
 
 ### Languages and tools:
-[<img align="left" alt=""HTML5 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d34d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt=""HTML5 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d34d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt=""HTML5 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d34d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt=""HTML5 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt=""HTML5 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt=""HTML5 width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 
 <br/>
+<br/>
+
+[website]: https://google.com
+[linkedin]: https://linkedin/in/raminaghaee
+[instagram]: https://instagram.com/raminaghaee
+
+
 <!--
 **raminaghaee/raminaghaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
