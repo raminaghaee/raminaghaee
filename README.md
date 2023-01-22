@@ -25,7 +25,7 @@ link to [site name](https://www.google.com/)
 <br/>
 
 [website]: https://google.com
-[linkedin]: https://linkedin/in/raminaghaee
+[linkedin]: https://www.linkedin.com/in/ramin-aghaee/
 [instagram]: https://instagram.com/raminaghaee
 
 
