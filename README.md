@@ -26,7 +26,7 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 [<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />][C#]
 [<img align="left" alt="sql" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" />][sql]
 [<img align="left" alt="visualStudio" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][visualStudio]
-[<img align="left" alt="visualStudio" width="26px" src="https://images.squarespace-cdn.com/content/v1/54b6c60be4b054d282279694/1463748675831-HMG9NBZEMJA4Y0SZAJ10/image-asset.png?format=500w" />][.net]
+[<img align="left" alt="visualStudio" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/dotnet-logo.png" />][.net]
 [<img align="left" alt="visualStudio" width="26px" src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" />][git]
 <br/>
 <hr/>
@@ -40,7 +40,7 @@ I'm RaminAghaee！I'm a software engineer 👨‍💻 I am  I am very interested
 [sql]: https://cdn-icons-png.flaticon.com/512/5968/5968364.png
 [visualStudio]: https://cdn-icons-png.flaticon.com/512/906/906324.png
 [git]: https://cdn-icons-png.flaticon.com/512/4494/4494740.png
-[.net]: https://images.squarespace-cdn.com/content/v1/54b6c60be4b054d282279694/1463748675831-HMG9NBZEMJA4Y0SZAJ10/image-asset.png?format=500w
+[.net]: https://brandslogos.com/wp-content/uploads/images/large/dotnet-logo.png
 
 <!--
 **raminaghaee/raminaghaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
